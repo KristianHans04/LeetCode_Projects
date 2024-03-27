@@ -6,3 +6,5 @@ for i in range(len(break_down)):
         broken_list.append(invert)
 
 b=" ".join(broken_list)
+
+print(b)

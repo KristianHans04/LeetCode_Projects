@@ -10,3 +10,7 @@ class Solution(object):
                 if nums[i] + nums[j] == target: #Adds the number in i and j and then compares it to the target value,
                     return [i, j]               #If true, it prints the position of the two values in the array
         return []
+
+s = Solution()
+result = s.twoSum([2,7,11,15], 9)
+print(result)
