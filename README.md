@@ -15,7 +15,7 @@ When I started this repository, my primary goal was to familiarize myself with P
 ### Current Focus  
 I am revisiting the solutions to improve:  
 - **Code efficiency** through optimizations.  
-- My understanding of **advanced data structures** and **algorithms**.  
+- My understanding of **data structures** and **algorithms**.  
 - Problem-solving skills across varying levels of difficulty.
 
 ---
